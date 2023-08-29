@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![My Contributions](https://streak-stats.demolab.com?user=bobbyrbruce&hide_border=true&hide_current_streak=true&hide_longest_streak=true) 
-
 ## Stats
 
 ![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyrbruce&show_icons=true&theme=responsive&include_all_commits=true&count_private=true&show=reviews)
