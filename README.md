@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my GitHub profile
+
+## About Me
+
+I am a project scientist at UC Davis. I am currently working primarily on the [gem5 Computer Architecture Simulator](https://github.com/gem5).
+
+Personal website: <https://www.bobbybruce.net>.
 
 ## Stats
 
