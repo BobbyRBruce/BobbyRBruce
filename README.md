@@ -2,6 +2,9 @@
 
 ![My Contributions](https://streak-stats.demolab.com?user=bobbyrbruce&hide_border=true&hide_current_streak=true&hide_longest_streak=true) 
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
 
 <!--
 **BobbyRBruce/BobbyRBruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
