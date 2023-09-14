@@ -8,8 +8,8 @@ Personal website: <https://www.bobbybruce.net>.
 
 ## Stats
 
-![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyrbruce&show_icons=true&theme=responsive&include_all_commits=true&count_private=true&show=reviews)
-![Bobby's Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyrbruce&layout=compact&theme=responsive&count_private=true&langs_count=10)
+![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyrbruce&show_icons=true&theme=responsive&include_all_commits=true&count_private=true&show=reviews&disable_animations=true)
+![Bobby's Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyrbruce&layout=compact&theme=responsive&count_private=true&langs_count=10&disable_animations=true)
 
 ## Recent Activity
 
