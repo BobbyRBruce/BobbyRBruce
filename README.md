@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#486](https://github.com/gem5/gem5/pull/486) in [gem5/gem5](https://github.com/gem5/gem5)
-2. 🚀 Published release [Version 23.0.0.0](https://github.com/BobbyRBruce/gem5/releases/tag/v23.0.0.0) in [BobbyRBruce/gem5](https://github.com/BobbyRBruce/gem5)
-3. 🚀 Published release [Version 23.0.0.1](https://github.com/BobbyRBruce/gem5/releases/tag/v23.0.0.1) in [BobbyRBruce/gem5](https://github.com/BobbyRBruce/gem5)
-4. 🚀 Published release [Version 23.0.1.0](https://github.com/BobbyRBruce/gem5/releases/tag/v23.0.1.0) in [BobbyRBruce/gem5](https://github.com/BobbyRBruce/gem5)
-5. 🎉 Merged PR [#489](https://github.com/gem5/gem5/pull/489) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 🎉 Merged PR [#495](https://github.com/gem5/gem5/pull/495) in [gem5/gem5](https://github.com/gem5/gem5)
+2. 💪 Opened PR [#495](https://github.com/gem5/gem5/pull/495) in [gem5/gem5](https://github.com/gem5/gem5)
+3. 🎉 Merged PR [#486](https://github.com/gem5/gem5/pull/486) in [gem5/gem5](https://github.com/gem5/gem5)
+4. 🚀 Published release [Version 23.0.0.0](https://github.com/BobbyRBruce/gem5/releases/tag/v23.0.0.0) in [BobbyRBruce/gem5](https://github.com/BobbyRBruce/gem5)
+5. 🚀 Published release [Version 23.0.0.1](https://github.com/BobbyRBruce/gem5/releases/tag/v23.0.0.1) in [BobbyRBruce/gem5](https://github.com/BobbyRBruce/gem5)
 <!--END_SECTION:activity-->
