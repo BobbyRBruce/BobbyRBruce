@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/gem5bootcamp/2024/pull/4#issuecomment-2221009005) in [gem5bootcamp/2024](https://github.com/gem5bootcamp/2024)
-2. 🎉 Merged PR [#42](https://github.com/gem5/gem5-resources/pull/42) in [gem5/gem5-resources](https://github.com/gem5/gem5-resources)
-3. 🎉 Merged PR [#1310](https://github.com/gem5/gem5/pull/1310) in [gem5/gem5](https://github.com/gem5/gem5)
-4. 💪 Opened PR [#1310](https://github.com/gem5/gem5/pull/1310) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 🎉 Merged PR [#1308](https://github.com/gem5/gem5/pull/1308) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 🎉 Merged PR [#6](https://github.com/gem5bootcamp/2024/pull/6) in [gem5bootcamp/2024](https://github.com/gem5bootcamp/2024)
+2. 💪 Opened PR [#6](https://github.com/gem5bootcamp/2024/pull/6) in [gem5bootcamp/2024](https://github.com/gem5bootcamp/2024)
+3. 🎉 Merged PR [#5](https://github.com/gem5bootcamp/2024/pull/5) in [gem5bootcamp/2024](https://github.com/gem5bootcamp/2024)
+4. 💪 Opened PR [#5](https://github.com/gem5bootcamp/2024/pull/5) in [gem5bootcamp/2024](https://github.com/gem5bootcamp/2024)
+5. 💪 Opened PR [#33](https://github.com/gem5bootcamp/gem5-bootcamp-env/pull/33) in [gem5bootcamp/gem5-bootcamp-env](https://github.com/gem5bootcamp/gem5-bootcamp-env)
 <!--END_SECTION:activity-->
