@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5355](https://github.com/pybind/pybind11/pull/5355#issuecomment-2359914148) in [pybind/pybind11](https://github.com/pybind/pybind11)
-2. 🗣 Commented on [#1579](https://github.com/gem5/gem5/pull/1579#issuecomment-2359704607) in [gem5/gem5](https://github.com/gem5/gem5)
-3. 💪 Opened PR [#1576](https://github.com/gem5/gem5/pull/1576) in [gem5/gem5](https://github.com/gem5/gem5)
-4. 🎉 Merged PR [#1479](https://github.com/gem5/gem5/pull/1479) in [gem5/gem5](https://github.com/gem5/gem5)
-5. ❌ Closed PR [#135](https://github.com/gem5/website/pull/135) in [gem5/website](https://github.com/gem5/website)
+1. 💪 Opened PR [#1587](https://github.com/gem5/gem5/pull/1587) in [gem5/gem5](https://github.com/gem5/gem5)
+2. 💪 Opened PR [#1586](https://github.com/gem5/gem5/pull/1586) in [gem5/gem5](https://github.com/gem5/gem5)
+3. 🗣 Commented on [#5355](https://github.com/pybind/pybind11/pull/5355#issuecomment-2359914148) in [pybind/pybind11](https://github.com/pybind/pybind11)
+4. 🗣 Commented on [#1579](https://github.com/gem5/gem5/pull/1579#issuecomment-2359704607) in [gem5/gem5](https://github.com/gem5/gem5)
+5. 💪 Opened PR [#1576](https://github.com/gem5/gem5/pull/1576) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
