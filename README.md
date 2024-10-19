@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1651](https://github.com/gem5/gem5/pull/1651#issuecomment-2423359571) in [gem5/gem5](https://github.com/gem5/gem5)
-2. 🎉 Merged PR [#1666](https://github.com/gem5/gem5/pull/1666) in [gem5/gem5](https://github.com/gem5/gem5)
-3. 🎉 Merged PR [#1631](https://github.com/gem5/gem5/pull/1631) in [gem5/gem5](https://github.com/gem5/gem5)
-4. 🗣 Commented on [#1651](https://github.com/gem5/gem5/pull/1651#issuecomment-2422875986) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 💪 Opened PR [#1686](https://github.com/gem5/gem5/pull/1686) in [gem5/gem5](https://github.com/gem5/gem5)
+1. ❌ Closed PR [#3](https://github.com/BobbyRBruce/personal-website/pull/3) in [BobbyRBruce/personal-website](https://github.com/BobbyRBruce/personal-website)
+2. ❌ Closed PR [#6](https://github.com/BobbyRBruce/personal-website/pull/6) in [BobbyRBruce/personal-website](https://github.com/BobbyRBruce/personal-website)
+3. ❌ Closed PR [#5](https://github.com/BobbyRBruce/personal-website/pull/5) in [BobbyRBruce/personal-website](https://github.com/BobbyRBruce/personal-website)
+4. ❌ Closed PR [#2](https://github.com/BobbyRBruce/personal-website/pull/2) in [BobbyRBruce/personal-website](https://github.com/BobbyRBruce/personal-website)
+5. ❌ Closed PR [#1](https://github.com/BobbyRBruce/personal-website/pull/1) in [BobbyRBruce/personal-website](https://github.com/BobbyRBruce/personal-website)
 <!--END_SECTION:activity-->
