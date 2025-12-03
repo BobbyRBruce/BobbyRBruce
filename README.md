@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2795](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
-2. ❌ Merged PR [#2796](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
-3. 🗣 Commented on [#2797](https://github.com/gem5/gem5/pull/2797#issuecomment-3604961152) in [gem5/gem5](https://github.com/gem5/gem5)
-4. ❌ Labeled PR [#2797](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 💪 Opened PR [#2797](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+1. ❌ Merged PR [#2797](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+2. ❌ Merged PR [#2795](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+3. ❌ Merged PR [#2796](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+4. 🗣 Commented on [#2797](https://github.com/gem5/gem5/pull/2797#issuecomment-3604961152) in [gem5/gem5](https://github.com/gem5/gem5)
+5. ❌ Labeled PR [#2797](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
