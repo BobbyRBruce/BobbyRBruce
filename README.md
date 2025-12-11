@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/gem5/resources-azure-api/pull/7#issuecomment-3639884648) in [gem5/resources-azure-api](https://github.com/gem5/resources-azure-api)
-2. ❌ Merged PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
-3. ❌ Labeled PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 🗣 Commented on [#7](https://github.com/gem5/resources-azure-api/pull/7#issuecomment-3640083240) in [gem5/resources-azure-api](https://github.com/gem5/resources-azure-api)
+2. 🗣 Commented on [#7](https://github.com/gem5/resources-azure-api/pull/7#issuecomment-3639884648) in [gem5/resources-azure-api](https://github.com/gem5/resources-azure-api)
+3. ❌ Merged PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
 4. ❌ Labeled PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 💪 Opened PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
+5. ❌ Labeled PR [#2820](undefined) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
