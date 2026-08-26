@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3450](https://github.com/gem5/gem5/issues/3450) in [gem5/gem5](https://github.com/gem5/gem5)
-2. ❗ Opened issue [#3449](https://github.com/gem5/gem5/issues/3449) in [gem5/gem5](https://github.com/gem5/gem5)
-3. ❗ Opened issue [#3448](https://github.com/gem5/gem5/issues/3448) in [gem5/gem5](https://github.com/gem5/gem5)
-4. ❗ Opened issue [#3447](https://github.com/gem5/gem5/issues/3447) in [gem5/gem5](https://github.com/gem5/gem5)
-5. ❗ Opened issue [#3446](https://github.com/gem5/gem5/issues/3446) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 💪 Opened PR [#3452](https://github.com/gem5/gem5/pull/3452) in [gem5/gem5](https://github.com/gem5/gem5)
+2. ❗ Opened issue [#3450](https://github.com/gem5/gem5/issues/3450) in [gem5/gem5](https://github.com/gem5/gem5)
+3. ❗ Opened issue [#3449](https://github.com/gem5/gem5/issues/3449) in [gem5/gem5](https://github.com/gem5/gem5)
+4. ❗ Opened issue [#3448](https://github.com/gem5/gem5/issues/3448) in [gem5/gem5](https://github.com/gem5/gem5)
+5. ❗ Opened issue [#3447](https://github.com/gem5/gem5/issues/3447) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
