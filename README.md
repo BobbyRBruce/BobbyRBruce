@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3476](https://github.com/gem5/gem5/pull/3476) in [gem5/gem5](https://github.com/gem5/gem5)
-2. 🎉 Merged PR [#3438](https://github.com/gem5/gem5/pull/3438) in [gem5/gem5](https://github.com/gem5/gem5)
-3. 🎉 Merged PR [#3466](https://github.com/gem5/gem5/pull/3466) in [gem5/gem5](https://github.com/gem5/gem5)
-4. 💪 Opened PR [#3466](https://github.com/gem5/gem5/pull/3466) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 🗣 Commented on [#3400](https://github.com/gem5/gem5/pull/3400#issuecomment-5470384979) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 💪 Opened PR [#3480](https://github.com/gem5/gem5/pull/3480) in [gem5/gem5](https://github.com/gem5/gem5)
+2. 💪 Opened PR [#3476](https://github.com/gem5/gem5/pull/3476) in [gem5/gem5](https://github.com/gem5/gem5)
+3. 🎉 Merged PR [#3438](https://github.com/gem5/gem5/pull/3438) in [gem5/gem5](https://github.com/gem5/gem5)
+4. 🎉 Merged PR [#3466](https://github.com/gem5/gem5/pull/3466) in [gem5/gem5](https://github.com/gem5/gem5)
+5. 💪 Opened PR [#3466](https://github.com/gem5/gem5/pull/3466) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
