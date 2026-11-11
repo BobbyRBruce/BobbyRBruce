@@ -14,9 +14,9 @@ Personal website: <https://www.bobbybruce.net>.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3728](https://github.com/gem5/gem5/pull/3728) in [gem5/gem5](https://github.com/gem5/gem5)
-2. 💪 Opened PR [#3730](https://github.com/gem5/gem5/pull/3730) in [gem5/gem5](https://github.com/gem5/gem5)
-3. ℹ️ Assigned PR [#3726](https://github.com/gem5/gem5/pull/3726) in [gem5/gem5](https://github.com/gem5/gem5)
+1. 🎉 Merged PR [#3729](https://github.com/gem5/gem5/pull/3729) in [gem5/gem5](https://github.com/gem5/gem5)
+2. 🎉 Merged PR [#3728](https://github.com/gem5/gem5/pull/3728) in [gem5/gem5](https://github.com/gem5/gem5)
+3. 💪 Opened PR [#3730](https://github.com/gem5/gem5/pull/3730) in [gem5/gem5](https://github.com/gem5/gem5)
 4. ℹ️ Assigned PR [#3726](https://github.com/gem5/gem5/pull/3726) in [gem5/gem5](https://github.com/gem5/gem5)
-5. 💪 Opened PR [#3729](https://github.com/gem5/gem5/pull/3729) in [gem5/gem5](https://github.com/gem5/gem5)
+5. ℹ️ Assigned PR [#3726](https://github.com/gem5/gem5/pull/3726) in [gem5/gem5](https://github.com/gem5/gem5)
 <!--END_SECTION:activity-->
